@@ -3,6 +3,9 @@
 # 🎫 Datastraw CRM
 ### Customer Support Ticketing System
 
+> 🌐 **Live App:** [frontend-seven-snowy-w7pcb5a7oo.vercel.app](https://frontend-seven-snowy-w7pcb5a7oo.vercel.app)  
+> 🔌 **Backend API:** [costmer-support-management.onrender.com](https://costmer-support-management.onrender.com/api/health)
+
 [![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-4.19-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
@@ -11,7 +14,7 @@
 
 A full-stack CRM system for managing customer support tickets — built as the **Datastraw AI + Tech Intern Assessment**.
 
-[🚀 Live Demo](#) · [🔌 Backend API](https://costmer-support-management.onrender.com/api/health) · [📂 Repository](https://github.com/surajpsharma/costmer-support-management) · [🐛 Report Bug](https://github.com/surajpsharma/costmer-support-management/issues)
+[🚀 Live Demo](https://frontend-seven-snowy-w7pcb5a7oo.vercel.app) · [🔌 Backend API](https://costmer-support-management.onrender.com/api/health) · [📂 Repository](https://github.com/surajpsharma/costmer-support-management) · [🐛 Report Bug](https://github.com/surajpsharma/costmer-support-management/issues)
 
 </div>
 
